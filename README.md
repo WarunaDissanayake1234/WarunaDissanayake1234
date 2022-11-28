@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@warunadissanay6" target="blank"><img src="https://img.shields.io/twitter/follow/@warunadissanay6?logo=twitter&style=for-the-badge" alt="@warunadissanay6"></a> </p>
 
- 🔭 I’m currently 
- 
- an Undergraduate at the University of Westminster. (IIT - Colombo)
+ ----🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)----
 
 - 🌱 I’m currently learning **CodeIgniter**
 
