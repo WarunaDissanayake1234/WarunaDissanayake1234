@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunadissanayake1234&label=Profile%20views&color=0e75b6&style=flat" alt="warunadissanayake1234" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@warunadissanay6" target="blank"><img src="https://img.shields.io/twitter/follow/@warunadissanay6?logo=twitter&style=for-the-badge" alt="@warunadissanay6"></a> </p>
+
 
  ----🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)----
 
