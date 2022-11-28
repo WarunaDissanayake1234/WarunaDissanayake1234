@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Waruna Dissanayake</h1>
-<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻 | Mobile Developer ☕</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warunadissanayake1234&label=Profile%20views&color=0e75b6&style=flat" alt="warunadissanayake1234" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@warunadissanay6" target="blank"><img src="https://img.shields.io/twitter/follow/@warunadissanay6?logo=twitter&style=for-the-badge" alt="@warunadissanay6"></a> </p>
-
- ----🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)----
+<p align="left"> <a href="https://twitter.com/@warunadissanay6" target="blank"><img src="https://img.shields.io/twitter/follow/@warunadissanay6?logo=twitter&style=for-the-badge" alt="@warunadissanay6" /></a> </p>
 
 - 🌱 I’m currently learning **CodeIgniter**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **wsadamina@gmail.com**
 
-- ⚡ Fun fact **I'm not Fun**
+- ⚡ Fun fact **I think I like to eat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
