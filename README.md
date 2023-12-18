@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **wsadamina@gmail.com**
 
-- ⚡ Fun fact **I'm not Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
