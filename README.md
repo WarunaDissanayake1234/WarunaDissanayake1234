@@ -10,7 +10,7 @@
 
  ----🔭 I’m currently an Undergraduate at the University of Westminster. (IIT - Colombo)----
 
-- 🌱 I’m currently learning **AI(ML/DL)**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **Anything**
 
