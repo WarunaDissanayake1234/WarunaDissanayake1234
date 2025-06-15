@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Waruna Dissanayake</h1>
-<h3 align="center">Tech Enthusiast 🐧 | SE Undergraduate 🎓 | Web Developer 💻 | AI Developer ☕</h3>
+_<h1 align="center">Hi 👋, I'm Waruna Dissanayake</h1>
+<h3 align="center">Tech Enthusiast 🐧 | SE Graduate 🎓 |AI/ML Developer 💻</h3>
 
 <img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -30,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warunadissanayake1234&show_icons=true&locale=en&layout=compact" alt="warunadissanayake1234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warunadissanayake1234&show_icons=true&locale=en" alt="warunadissanayake1234" /></p>
+_
